@@ -13,7 +13,7 @@ class loginPage extends StatelessWidget {
             Image.asset("assets/images/image1.png", fit: BoxFit.cover),
             SizedBox(height: 30.0),
             Text(
-              "Welcome",
+              "Welcome here",
               style: TextStyle(fontSize: 20.0, fontWeight: FontWeight.bold),
             ),
             Padding(
